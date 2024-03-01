@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Bart, a student of the web. 
-Full time front end development student with the aim to make functional, user friendly and beautiful websites. 
+Full time front end development student at Noroff Vocational School with the aim to make functional, user friendly and beautiful websites. 
 
 ### What am I doing? 
 - 🔭 I’m currently working on a Portfolio.
