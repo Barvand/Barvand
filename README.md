@@ -3,7 +3,7 @@ I am Bart, a student of the web.
 Full time front end development student at Noroff Vocational School with the aim to make functional, user friendly and beautiful websites. 
 
 ### What am I doing? 
-- 🔭 I’m currently working on a Portfolio.
+- 🔭 I’m currently in the second year of the Front end development programm.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 <!--
 **Barvand/Barvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
