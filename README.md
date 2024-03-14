@@ -6,7 +6,7 @@ In my spare time I like to develop my coding skills to create own projects. I al
 ### What am I doing? 
 - 🔭 I’m currently in the second year of the Front end development programm.
 - 🌱 I’m currently learning and trying to understand HTML, CSS and Javascript.
--  I’m currently working on a website for my eldest child in a Spiderman theme.
+-  I’m currently working on a website desgined in a Spiderman theme.
 -  
 -  ⚡ Fun fact: I studied sports and was part of the Dutch military. 
 <!--
