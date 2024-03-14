@@ -8,7 +8,7 @@ In my spare time I like to develop my coding skills to create own projects. I al
 - 🌱 I’m currently learning and trying to understand HTML, CSS and Javascript.
 -  I’m currently working on a website desgined in a Spiderman theme.
 -  
--  ⚡ Fun fact: I studied sports and was part of the Dutch military. 
+-  ⚡ Fun fact: I studied sports and was part of the Dutch military. I like gardening and building computers. 
 <!--
 **Barvand/Barvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
