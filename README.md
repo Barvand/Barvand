@@ -1,9 +1,14 @@
 ### Hi there 👋
 I am Bart, a student of the web and Full time front end development student at Noroff Vocational School with the aim to make functional, user friendly and beautiful websites. 
+ 
+In my spare time I like to develop my coding skills to create own projects. I also, like to be outdoors and play games as while being a dad of 2 children. 
 
 ### What am I doing? 
 - 🔭 I’m currently in the second year of the Front end development programm.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning and trying to understand HTML, CSS and Javascript.
+-  I’m currently working on a website for my eldest child in a Spiderman theme.
+-  
+-  ⚡ Fun fact: I studied sports and was part of the Dutch military. 
 <!--
 **Barvand/Barvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
