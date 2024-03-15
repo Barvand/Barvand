@@ -7,11 +7,12 @@ In my spare time I like to develop my coding skills to create own projects. I al
 - 🔭 I’m currently in the second year of the Front end development programm.
 - 🌱 I’m currently learning and trying to understand HTML, CSS and Javascript.
 -  I’m currently working on a website desgined for children stories for parents to gather inspiration from to read more for their children.
-
-
-- 📫 How to reach me: Feel free to send me a DM on github for a conversation!
   
--  ⚡ Fun fact: I studied sports and was part of the Dutch military. I like gardening and building my own computers. 
+-  ⚡ Fun fact: I studied sports and was part of the Dutch military. I like gardening and building my own computers.
+
+ Feel free to send me a DM on github for a conversation!
+
+ Have a great day!
 <!--
 **Barvand/Barvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
