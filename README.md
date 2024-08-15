@@ -5,8 +5,7 @@ In my spare time I like to develop my coding skills to create own projects. I al
 
 ### What am I doing? 
 - 🔭 I’m currently in the second year of the Front end development programm.
-- 🌱 I’m currently learning and trying to understand HTML, CSS and Javascript.
--  I’m currently working on a website desgined for children stories for parents to gather inspiration from to read more for their children.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
   
 -  ⚡ Fun fact: I studied sports and was part of the Dutch military. I like gardening and building my own computers.
 
