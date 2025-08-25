@@ -1,6 +1,6 @@
 Hi there 👋, I'm Bart!  
 
-Front-end Developer | Tech Enthusiast  
+**Front-end Developer | Tech Enthusiast living in Bergen, Norway 🇳🇴**
 
 I’m a (Front-end) Developer with a passion for creating functional, user-friendly, and visually appealing websites for customers and clients.  
 
