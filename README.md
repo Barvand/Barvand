@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Bart!  
 
-**(Front-end) Developer | Tech Enthusiast | **  
+** Front-end Developer | Tech Enthusiast | **  
 
 I’m a **Frontend Developmer** with a passion for creating **functional, user-friendly, and visually appealing** websites for customers and clients. 
 
