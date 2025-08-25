@@ -2,29 +2,33 @@
 
 🚀 **Front-end Developer in Training | Web Enthusiast | Lifelong Learner**  
 
-I’m a full-time **Frontend Development** student at **Noroff Vocational School** with a passion for creating **functional, user-friendly, and visually appealing** websites.  
+I’m a **Frontend Developmer** with a passion for creating **functional, user-friendly, and visually appealing** websites for customers and clients. 
 
-Outside of coding, I love **spending time outdoors, gaming, and being a dad to two awesome kids.** 🎮🌿👨‍👧‍👦  
+Outside of coding, I love **spending time in the mountains, gaming, and being a dad to two awesome kids.** 🎮🌿👨‍👧‍👦  
 
 ---
 
 ### 👨‍💻 **What I'm Up To**  
 🔭 **Currently:**  
-- 📚 Studying **Frontend Development (2nd Year) | Finishing in March 2025**  
-- 💻 Learning **React, Next.js, and Advanced JavaScript**  
-- 🛠️ Building personal projects to sharpen my skills  
+- 📚 Building an Trading journal with integrated API from several brokers using Appwrite to have a great overview of your trades and improve your trading accuracy..**
+- 💻 Building apps with **React, Next.js, and JavaScript**  
+- 🛠️ Building personal projects to improve my knowledsge and compentence.  
 
 🌱 **Interests:**  
 - UI/UX Design 🎨  
 - Web Performance Optimization ⚡  
 - JavaScript Ecosystem 🔥
 - React 🔥
+- Pentesting
+- Cybersecurity
+- Linux
+- And much more
 
 ---
 
 ### ⚡ **Fun Facts About Me**  
 - 🇳🇱 I studied **sports** and was in the **Dutch military**  
-- 🌱 I enjoy **gardening** and **building custom PCs**  
+- 🌱 I enjoy **gardening** and **building PCs**  
 - 🎮 I’m always up for a good gaming session  
 
 ---
