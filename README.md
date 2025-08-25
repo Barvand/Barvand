@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Bart!  
 
-🚀 **Front-end Developer in Training | Web Enthusiast | Lifelong Learner**  
+**(Front-end) Developer | Tech Enthusiast | **  
 
 I’m a **Frontend Developmer** with a passion for creating **functional, user-friendly, and visually appealing** websites for customers and clients. 
 
@@ -44,4 +44,4 @@ Outside of coding, I love **spending time in the mountains, gaming, and being a 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barvand&layout=compact&theme=radical)
 
-Have a great day! 😃🚀  
+Peace!  
