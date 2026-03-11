@@ -21,7 +21,8 @@ Outside of coding, I love spending time in the mountains, gaming, and being a da
 - UI/UX Design 🎨  
 - Web Performance Optimization ⚡  
 - JavaScript Ecosystem 🔥  
-- React 🔥  
+- React 🔥
+- Next.js
 - Penetration Testing  
 - Cybersecurity  
 - Linux  
