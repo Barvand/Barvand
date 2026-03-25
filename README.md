@@ -4,7 +4,7 @@ Hi there 👋, I'm Bart!
 
 I’m a (Front-end) Developer with a passion for creating functional, user-friendly, and visually appealing websites for customers and clients.  
 
-Outside of coding, I love spending time in the mountains, gaming, and being a dad to two awesome kids. 🎮🌿👨‍👧‍👦  
+Outside of coding, I love spending time in the mountains, gaming, and reading books.
 
 ---
 
