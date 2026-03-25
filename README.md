@@ -11,11 +11,11 @@ Outside of coding, I love spending time in the mountains, gaming, and reading bo
 👨‍💻 What I'm Up To  
 
 🔭 Currently:  
-- 📚 Building a social media full stack application to increase my knowledge in nodeJS and mySQL, while diving deeper into react and nextJS.
-- 📚 Deep diving into Linux and cybersecurity. 
-- 💻 Building apps with React, Next.js, and JavaScript  
-- 🛠️ Creating personal projects to improve my knowledge and competence e.g I am building a full stack application with nodeJS and mySQL.
-- 
+- 📚 Building full stacks apps for the construction industry.
+- Providing internal tech structure and tools.
+- 📚 Deep diving into Linux and cybersecurity.
+- 💻 Building apps with React, Next.js, and JavaScript.
+
 
 🌱 Interests:  
 - UI/UX Design 🎨  
@@ -25,7 +25,8 @@ Outside of coding, I love spending time in the mountains, gaming, and reading bo
 - Next.js
 - Penetration Testing  
 - Cybersecurity  
-- Linux  
+- Linux
+- AI technology
 - And of course many many many more.
 
 ---
